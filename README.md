@@ -1,16 +1,19 @@
-# React + Vite
+# Hack4IMPACTTrack2-limitu
+sdis hackathon
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+TEAM NAME : LIMITU
 
-Currently, two official plugins are available:
+MEMBERS:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+SOHAM DEY - 24155961, CSE (AI & ML)
 
-## React Compiler
+SUPARNA RAHA - 24052191, CSE
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+MOUBANI DAS - 24051183, CSE
 
-## Expanding the ESLint configuration
+DEVYANSH DHODY - 2405725, CSE
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+DOMAIN -  TRACK 2
+
+PROBLEM STATEMENT : 
+Students receive a fixed monthly allowance, but their spending happens daily and often without structure. This mismatch leads to overspending in the early part of the month and financial shortages later on. Existing payment apps only track expenses after they occur and do not provide real-time guidance or control. As a result, students lack awareness of their spending patterns and struggle to maintain financial discipline. This creates stress, dependence on others, and poor long-term money management habits.
